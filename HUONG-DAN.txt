@@ -1,0 +1,30 @@
+﻿VINHOMES KING PARK – MAYHOMES
+Bản website đã tăng cỡ chữ nội dung thêm 3 px.
+
+1. XEM TRÊN MÁY
+Giải nén toàn bộ file ZIP rồi mở index.html trong thư mục này bằng Chrome hoặc Edge.
+Giữ nguyên cấu trúc thư mục assets để ảnh và font hiển thị đầy đủ.
+Gói này chứa toàn bộ HTML, CSS, JavaScript, 14 ảnh WebP của website.
+Font chữ đã được đóng kèm để xem giao diện ngay cả khi không có Internet.
+
+2. ĐƯA LÊN HOSTING
+Tải toàn bộ nội dung thư mục này lên thư mục gốc của website trên hosting.
+index.html phải nằm ở thư mục gốc, cùng styles.css, app.js, gallery.js và assets.
+Không cần npm, không có bước build, không cần WordPress hay database.
+Trang đang có noindex cho giai đoạn xem trước; cân nhắc cập nhật khi mở website chính thức.
+
+3. FORM TƯ VẤN
+Nhận chính: anhduong01082020@gmail.com
+Đồng gửi: vanhoc2601vinhomes@gmail.com
+Hotline: 0945698801 – 0968515576.
+Gửi form cần có Internet và website chạy qua HTTP/HTTPS; mở index.html trực tiếp chỉ để xem giao diện.
+Form dùng dịch vụ FormSubmit, không có máy chủ gửi email riêng trong gói này.
+Trước khi nhận khách: gửi một yêu cầu TEST từ URL thật, kiểm tra email kích hoạt FormSubmit trong hộp thư chính, bấm xác nhận, rồi gửi thử lần nữa để kiểm tra cả hai hộp thư (kể cả Spam).
+Việc giao nhận email thực tế chưa được xác minh trong phiên xây dựng.
+Chưa cài mã chuyển đổi Google Ads vì chưa có Conversion ID/Label.
+
+4. HÌNH ẢNH
+assets chứa đầy đủ tất cả ảnh website đang dùng, bao gồm ảnh banner cho máy tính và điện thoại.
+Các ảnh đã được xử lý để loại bỏ hoặc làm mờ logo và watermark, sau đó tối ưu WebP để tải nhanh. Chỉ sử dụng như hình minh họa; thông tin chính thức đối chiếu với tài liệu gốc còn hiệu lực.
+Ảnh phối cảnh và tài liệu quy hoạch mang tính tham khảo, đối chiếu hồ sơ dự án còn hiệu lực.
+Giấy phép font chữ nằm trong assets/fonts.
